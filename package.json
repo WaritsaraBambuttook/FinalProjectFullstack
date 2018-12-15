@@ -1,0 +1,24 @@
+{
+  "name": "project2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap-vue": "^2.0.0-rc.11",
+    "echarts": "^4.2.0-rc.2",
+    "hchs-vue-charts": "^1.2.8",
+    "v-charts": "^1.19.0",
+    "vue": "^2.5.17",
+    "vue-chartjs": "^3.4.0",
+    "vue-router": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.1.1",
+    "@vue/cli-service": "^3.1.4",
+    "vue-template-compiler": "^2.5.17"
+  }
+}
